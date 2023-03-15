@@ -36,3 +36,10 @@
         <p>La expedición de Amundsen al Polo Sur comenzó en septiembre de 1911, cuando su barco, el Fram, zarpó de Noruega. Después de pasar varios meses explorando la Antártida y estableciendo depósitos de suministros, Amundsen y su equipo finalmente comenzaron su marcha hacia el Polo Sur en octubre de 1911. El equipo enfrentó desafíos extremos en el camino, incluyendo temperaturas extremadamente frías, vientos fuertes y tormentas de nieve. Sin embargo, finalmente alcanzaron el Polo Sur el 14 de diciembre de 1911, convirtiéndose en los primeros en llegar allí.</p>
       </section>
       <section id="conclusion">
+<h2>Conclusión</h2>
+    <p>La conquista del Polo Sur fue un logro significativo para la exploración polar y para la humanidad en general. Amundsen y su equipo demostraron que era posible sobrevivir y prosperar en algunas de las condiciones más extremas de la Tierra. También sentaron las bases para futuras expediciones y descubrimientos en la Antártida.</p>
+  </section>
+</main>
+<footer>
+  <p>Artículo creado por Alejandra Fernandez, 13/03/2023</p>
+</footer>
