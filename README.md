@@ -1,8 +1,4 @@
-# laconquistadelpolosur
-<!DOCTYPE html>
-<html lang="es">
-  <head>
-    <meta charset="UTF-8">
+
     <title>La conquista del Polo Sur</title>
   </head>
   <body>
