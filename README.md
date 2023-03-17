@@ -53,7 +53,7 @@
       </section>
       
       
-      <section id="conclusion">
+      
 <h2>Conclusión</h2>
         <p>Una vez en la meseta, Amundsen mantuvo su invariable ritmo de 27 kilómetros diarios, lo que le permitió completar la carrera en otras tres semanas. El 14 de diciembre, a las tres de la tarde, los cinco noruegos al unísono clavaron la bandera de su país en el punto más austral del planeta. Habían vencido. Aquel día los británicos todavía se encontraban subiendo los glaciares, a 600 kilómetros de distancia.</p>
         <p>Durante unos días, los noruegos descansaron en el polo. Amundsen montó una tienda de campaña que demostraba su llegada. Dentro dejó el informe del viaje junto con una carta para Scott en la que le pedía que se lo entregara al rey de Noruega; todo por si les ocurría algo en el regreso. Mientras tanto, los británicos continuaban empujando sus trineos ladera arriba por los glaciares, a 600 kilómetros de distancia.</p>
