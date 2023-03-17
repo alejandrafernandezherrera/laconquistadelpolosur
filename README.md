@@ -1,4 +1,3 @@
-
   <body>
     <header>
       <h1>La conquista del Polo Sur</h1>
