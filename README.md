@@ -52,6 +52,7 @@
       <p>Tras avanzar 600 kilómetros por una superficie de hielo totalmente llana, las dos expediciones debían llegar a una cadena de glaciares, los montes Transantárticos, que se elevaban hasta alcanzar la meseta polar, a 3.000 metros de altura. Los noruegos realizaron el ascenso por un lugar inexplorado. Durante una semana estuvieron subiendo y bajando glaciares, sometiendo a un terrible suplicio a sus perros, más de la mitad de los cuales murieron. En el lado británico, a pesar de avanzar por la ruta abierta por Shackleton años antes, las cosas tampoco fueron fáciles. Todos los caballos murieron, de modo que los expedicionarios tuvieron que tirar ellos mismos de sus pesados trineos a lo largo de 400 kilómetros de una pendiente inacabable. Una tarea agotadora que les llevó el doble de días que a sus rivales.</p>
       </section>
       
+      
       <section id="conclusion">
 <h2>Conclusión</h2>
         <p>Una vez en la meseta, Amundsen mantuvo su invariable ritmo de 27 kilómetros diarios, lo que le permitió completar la carrera en otras tres semanas. El 14 de diciembre, a las tres de la tarde, los cinco noruegos al unísono clavaron la bandera de su país en el punto más austral del planeta. Habían vencido. Aquel día los británicos todavía se encontraban subiendo los glaciares, a 600 kilómetros de distancia.</p>
